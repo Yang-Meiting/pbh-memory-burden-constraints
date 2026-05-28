@@ -13,7 +13,7 @@ with the **memory burden effect**, based on Montefalcone+2026 (*Phys. Rev. D* **
 
 ## Jupyter Notebook
 
-📓 [View with embedded results (nbviewer)](https://nbviewer.jupyter.org/github/Yang-Meiting/pbh-memory-burden-constraints/blob/main/pbh_memory_burden_CN.ipynb)
+📓 [Jupyter Notebook 完整代码与结果](https://nbviewer.jupyter.org/github/Yang-Meiting/pbh-memory-burden-constraints/blob/main/pbh_memory_burden_CN.ipynb)
 
 ## Modules
 
