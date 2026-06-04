@@ -1,14 +1,19 @@
 """
 PBH Memory Burden Constraints -- Cosmological constraints on evaporating primordial black holes.
 
-Core module for computing CMB and BBN constraints on PBHs incorporating the
-memory burden effect, building on Montefalcone et al. (2026).
+Core module implementing the continuous memory-burden crossover model for PBH evaporation,
+including additive and multiplicative rate combinations with smooth tanh transition.
+Part of the undergraduate research project supported by the Provincial Undergraduate 
+Innovation and Entrepreneurship Training Program.
 
-Reference:
-    Montefalcone et al. (2026), Phys. Rev. D 113, 023524, arXiv:2503.21005 [astro-ph.CO]
-    "Can a Breakdown of Hawking Evaporation Open a New Mass Window for Primordial Black Holes as Dark Matter?"
+Reference (this work):
+    Zhang, X.-Y., Yang, M.-T., & Jin, H.-B. (2026), arXiv:2606.04707 [astro-ph.CO]
+    "BBN constraints on primordial black holes with a continuous memory-burden crossover"
 
-Author: Yang Meiting
+Reference (prior work):
+    Montefalcone et al. (2026), Phys. Rev. D 113, 023524, arXiv:2503.21005
+
+Authors: X.-Y. Zhang, M.-T. Yang, H.-B. Jin
 """
 
 import numpy as np
