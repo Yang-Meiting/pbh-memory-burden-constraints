@@ -26,7 +26,6 @@ The published paper focuses specifically on **BBN constraints** computed with Al
 |-----------|-------------|
 | `pbh_evaporation.py` | Core module: PBH evaporation model with memory-burden effect |
 | `pbh_memory_burden.ipynb` | Main analysis notebook (English) |
-| `pbh_memory_burden_CN.ipynb` | Main analysis notebook |
 
 ### Research phases reflected in the code
 
