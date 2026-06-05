@@ -71,17 +71,11 @@ Then run all cells in the notebook to generate the result figures.
 
 ## References
 
-- Zhang, Yang & Jin (2026), arXiv:2606.04707 [astro-ph.CO]
-- Montefalcone, G., Hooper, D., Freese, K., Kelso, C., Kühnel, F., & Sandick, P. (2026). 
-  *Can a breakdown of Hawking evaporation open a new mass window for primordial black holes as dark matter?* 
-  Phys. Rev. D, 113(2), 023524. DOI: [10.1103/PhysRevD.113.023524](https://doi.org/10.1103/PhysRevD.113.023524)
-  arXiv: [2503.21005](https://arxiv.org/abs/2503.21005)
-- Acharya, S. K., & Khatri, R. (2020). 
-  *CMB and BBN constraints on evaporating primordial black holes revisited.* 
-  JCAP, 06, 018. DOI: [10.1088/1475-7516/2020/06/018](https://doi.org/10.1088/1475-7516/2020/06/018)
-  arXiv: [2002.00898](https://arxiv.org/abs/2002.00898)
-- Kawasaki et al. (2018), Phys. Rev. D 97, 023502
-- Keith et al. (2020), Phys. Rev. D 102, 103512
+- Zhang, X.-Y., Yang, M.-T., & Jin, H.-B. (2026). [arXiv:2606.04707 [astro-ph.CO]](https://arxiv.org/abs/2606.04707)
+- Montefalcone, G., et al. (2026). Phys. Rev. D 113, 023524. [DOI](https://doi.org/10.1103/PhysRevD.113.023524) | [arXiv](https://arxiv.org/abs/2503.21005)
+- Acharya, S. K., & Khatri, R. (2020). JCAP 06, 018. [DOI](https://doi.org/10.1088/1475-7516/2020/06/018) | [arXiv](https://arxiv.org/abs/2002.00898)
+- Kawasaki, M., et al. (2018). Phys. Rev. D 97, 023502. [DOI](https://doi.org/10.1103/PhysRevD.97.023502) | [arXiv](https://arxiv.org/abs/1709.01211)
+- Keith, C., et al. (2020). Phys. Rev. D 102, 103512. [DOI](https://doi.org/10.1103/PhysRevD.102.103512) | [arXiv](https://arxiv.org/abs/2006.03608)
 
 ## License
 
