@@ -8,7 +8,6 @@ This repository accompanies the undergraduate research project:
 > *Primordial Black Holes as Dark Matter Candidates and the Origin of Their Masses*  
 > Supported by the Provincial Undergraduate Innovation and Entrepreneurship Training Program (省级大学生创新创业训练计划)  
 > Project period: 2025.05 -- present  
-> Members: X.-Y. Zhang, M.-T. Yang; Advisor: H.-B. Jin
 
 ## Published Paper
 
